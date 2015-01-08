@@ -1,5 +1,5 @@
 def func(x)
-  return 3**x-1
+  return 3*x-1
 end
 puts "Välj ett värde på x"
 
